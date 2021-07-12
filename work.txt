@@ -1,4 +1,4 @@
 work 1
-working now 2 : umm... i saw this line has bug.. im fixing now
+work done 2 // fixed the bug
 work done 3
 working 4 
